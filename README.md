@@ -18,4 +18,5 @@ SPA 应用指 Single-Page Application，即单页面应用，SPA 应用通过动
 ### 参考资料
 
 王松.Spring Boot+Vue全栈开发实战[M].清华大学出版社.2019
+
 https://github.com/lenve/vhr
